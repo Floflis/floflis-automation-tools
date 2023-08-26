@@ -1,0 +1,32 @@
+This folder: /home/daniella/Desktop/bulk-symlink-tool
+
+  File: ./bulk-symlink-tool-2.sh
+  Size: 602       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,38	Inode: 9963892     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-26 15:38:14.728165137 -0300
+Modify: 2023-08-26 15:37:57.083582324 -0300
+Change: 2023-08-26 15:45:33.793175714 -0300
+ Birth: 2023-08-26 15:45:33.793175714 -0300
+IPFS hash: QmU8rXLL7QRH7qQdU9nvUqiZVHH7L2fPuV6v5opqKWmot9
+------------------------------
+  File: ./Bulk Symlink Tool (8_26_2023 3_39_07 PM).zip.html
+  Size: 239060    	Blocks: 472        IO Block: 4096   regular file
+Device: 8,38	Inode: 9963893     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-26 15:45:33.793175714 -0300
+Modify: 2023-08-26 15:39:07.549911086 -0300
+Change: 2023-08-26 15:45:33.797174456 -0300
+ Birth: 2023-08-26 15:45:33.793175714 -0300
+IPFS hash: QmbfUzqEeyTDudS1SvfpyVrE1NuM4wKztBdVqhT3wAoMVD
+------------------------------
+  File: ./bulk-symlink-tool.sh
+  Size: 671       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,38	Inode: 9963891     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-26 15:36:09.260025768 -0300
+Modify: 2023-08-26 15:35:42.163133454 -0300
+Change: 2023-08-26 15:45:33.793175714 -0300
+ Birth: 2023-08-26 15:45:33.789176972 -0300
+IPFS hash: QmZyod3FoDuamdh9r77bEoQPMVkLjWUDAkFHRpbbe1J1fa
+------------------------------

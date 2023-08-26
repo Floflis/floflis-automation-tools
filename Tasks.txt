@@ -1,0 +1,4 @@
+* Both versions by ChatGPT DON'T WORK!
+* Have to study: are there a similar tool existing already?
+
+Floflis need an automation warchest, integrated with davidExplorer; identify (both at davidExplorer and Term) when user is doing repetitive tasks, and ask to do it automatically.
